@@ -25,7 +25,7 @@ Estrutura* cria_estrutura();
 void insere_cliente(Estrutura *estrutura, int criterio, Cliente *cliente);
 
 /*
- * Função principal de recuperação, exatamente como exigido no desafio.
+ * Função principal de recuperação.
  * Retorna uma Lista alocada contendo os resultados da busca.
  * Criterios:
  * 1 - Nome

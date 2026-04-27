@@ -2,7 +2,7 @@
 #define CLIENTE_H
 
 /* * TAD Cliente
- * Ocultamos a definição da struct aqui para garantir o encapsulamento.
+ * A definição da struct é ocultada aqui para garantir o encapsulamento.
  * A struct real será definida em cliente.c.
  */
 typedef struct cliente Cliente;

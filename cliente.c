@@ -3,7 +3,7 @@
 #include "cliente.h"
 
 /*
- * Ocultamos a struct aqui no ficheiro .c (Encapsulamento do TAD).
+ * Ocultamos a struct aqui em cliente.c (Encapsulamento do TAD).
  * Nenhuma outra parte do código sabe como o cliente é feito por dentro,
  * apenas acedem através dos "getters".
  */

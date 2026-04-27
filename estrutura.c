@@ -3,7 +3,7 @@
 #include "estrutura.h"
 
 /*
- * Esta é a joia da coroa. A nossa estrutura guarda 5 conjuntos 
+ * Aquie está a estrutura principal com as listas. A nossa estrutura guarda 5 conjuntos 
  * de listas diferentes, operando como índices de um banco de dados real.
  */
 struct estrutura {
